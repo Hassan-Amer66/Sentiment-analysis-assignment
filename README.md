@@ -1,4 +1,4 @@
-# Assignment 2 -- Sentiment Analysis: Results and Comparisons
+# Assignment -- Sentiment Analysis: Results and Comparisons
 
 ## 1. Task Overview
 
